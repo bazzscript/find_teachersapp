@@ -15,19 +15,19 @@ i did exactly as told!.
 Screenshot of my results
 
 **GET STARTED SCREEN, MY LAPTOP VIEW**
-![Get Started Pc](https://github.com/emexbazz/find_teachersapp/blob/master/images/1.png)
+![Get Started Pc](https://github.com/emexbazz/find_teachersapp/blob/master/screenshots/1.png)
 
 **GET STARTED PHONE SCREEN**
-![Get Started Phone](https://github.com/emexbazz/find_teachersapp/blob/master/images/1phone.png)
+![Get Started Phone](https://github.com/emexbazz/find_teachersapp/blob/master/screenshots/1phone.png)
 
 **VERIFY SCREEN MY LAPTOP VIEW**
-![Sign in Pc](https://github.com/emexbazz/find_teachersapp/blob/master/images/2.png)
+![Sign in Pc](https://github.com/emexbazz/find_teachersapp/blob/master/screenshots/2.png)
 
 **VERIFY PHONE SCREEN**
-![Sign in Phone](https://github.com/emexbazz/find_teachersapp/blob/master/images/2phone.png)
+![Sign in Phone](https://github.com/emexbazz/find_teachersapp/blob/master/screenshots/2phone.png)
 
 **SELECT TEACHER SCREEN MY LAPTOP VIEW**
-![Sign in Pc](https://github.com/emexbazz/find_teachersapp/blob/master/images/3.png)
+![Sign in Pc](https://github.com/emexbazz/find_teachersapp/blob/master/screenshots/3.png)
 
 **SELECT TEACHER PHONE SCREEN**
-![Sign in Phone](https://github.com/emexbazz/find_teachersapp/blob/master/images/3phone.png)
+![Sign in Phone](https://github.com/emexbazz/find_teachersapp/blob/master/screenshots/3phone.png)
