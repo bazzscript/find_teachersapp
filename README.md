@@ -4,11 +4,20 @@ A new Flutter project Challange Given to me by my mentor at codeclan coding boot
 
 Getting Started
 
-I was challanged to Recreate the Dribbble design from https://dribbble.com/shots/14774744-Sign-in-mobile-screens.
+I was challanged to Recreate a Dribbble design
 
 in his own words
 
-""
+":
+If you are not a beginner in @flutter you might want to fancy doing some weekly UI challenge in flutter.
+Let's get started with our first challenge of the week.
+
+Here's a dribbble design you can work on for the week.
+
+Your task is to convert it into a Flutter app.
+
+https://dribbble.com/shots/15750590-Online-Tuition-and-Teacher-and-Slot-Booking-App-Education
+"
 
 i did exactly as told!.
 
